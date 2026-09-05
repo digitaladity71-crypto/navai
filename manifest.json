@@ -1,0 +1,10 @@
+{
+  "name": "NavAI — Intelligent Navigation",
+  "short_name": "NavAI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#00d9ff",
+  "description": "Offline-first NavAI navigation experience",
+  "icons": []
+}
